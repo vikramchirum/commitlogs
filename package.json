@@ -1,0 +1,21 @@
+{
+  "name": "gexa.conventional-commits",
+  "version": "1.0.0",
+  "description": "Documentation on how to setup project for conventional commits",
+  "main": "README.md",
+  "dependencies": {
+    "cz-conventional-changelog": "^2.1.0",
+    "husky": "^1.3.1",
+    "validate-commit-msg": "^2.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://patrick.purcell@neer-bitbucket:7990/scm/gd/gexa.conventional-commits.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
