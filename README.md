@@ -98,3 +98,7 @@ INVALID COMMIT MSG: does not match "<type>(<scope>): <subject>" !
 i did some stuff
 husky > commit-msg hook failed (add --no-verify to bypass)
 ``` 
+
+Example
+
+![Commits](examples/commit.svg)
